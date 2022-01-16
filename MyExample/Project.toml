@@ -1,0 +1,13 @@
+name = "MyExample"
+uuid = "99f60b0b-58fd-48d4-9fcb-c4427db04c1e"
+authors = ["Andrey Oskin"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+ReTest = "e0db7c4e-2690-44b9-bad6-7687da720f89"
+
+[targets]
+test = ["ReTest"]

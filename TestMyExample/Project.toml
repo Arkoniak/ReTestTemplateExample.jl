@@ -1,0 +1,4 @@
+[deps]
+MyExample = "99f60b0b-58fd-48d4-9fcb-c4427db04c1e"
+ReTest = "e0db7c4e-2690-44b9-bad6-7687da720f89"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
